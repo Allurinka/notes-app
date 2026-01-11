@@ -21,6 +21,7 @@ cd notes-app
 cd C:\Users\ВАШЕ_ИМЯ\Desktop\notes-app\backend
 node server-3000.js
 # Приложение откроется на http://localhost:3000
+# Бекенд откроется на http://localhost:3000/api/notes
 📁 Структура проекта
 text
 notes-app/
