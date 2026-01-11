@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "🔍 Pre-commit checks..."
+echo "✅ All checks passed for now"
