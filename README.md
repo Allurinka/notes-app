@@ -27,7 +27,7 @@ npm run dev
 cd frontend
 npm install
 npm start
-# Приложение откроется на http://localhost:3001
+# Приложение откроется на http://localhost:3000
 📁 Структура проекта
 text
 notes-app/
@@ -75,7 +75,6 @@ ESLint - Линтинг кода
 
 Prettier - Форматирование
 
-Husky - Git хуки
 
 GitHub Actions - CI/CD
 
