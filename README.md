@@ -17,16 +17,9 @@
 git clone https://github.com/Allurinka/notes-app.git
 cd notes-app
 
-# Запуск бэкенда (API сервер)
-cd backend
-npm install
-npm run dev
-# Сервер запустится на http://localhost:3000
-
-# Запуск фронтенда (в отдельном терминале)
-cd frontend
-npm install
-npm start
+# Запуск и бекенда и фронтенда
+cd C:\Users\ВАШЕ_ИМЯ\Desktop\notes-app\backend
+node server-3000.js
 # Приложение откроется на http://localhost:3000
 📁 Структура проекта
 text
